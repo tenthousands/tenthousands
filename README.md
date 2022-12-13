@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently I am a master candidate in National University of Defense Technology.
+
 <!--
 **tenthousands/tenthousands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
